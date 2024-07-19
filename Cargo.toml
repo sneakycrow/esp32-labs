@@ -1,4 +1,4 @@
 [workspace]
-members = ["simple_led"]
+members = []
 
 resolver = "2"
